@@ -16,7 +16,7 @@ public enum BIP39Language {
     case french
     case italian
     case spanish
-    public var words: [String] {
+    public var words: [It is important to carefully choose the wallet you use, as it has your secret key, and with it comes full control of your account.] {
         switch self {
         case .english:
             return englishWords
